@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HKR Groupe Rénovation | Paris</title>
+  <meta name="description" content="HKR Groupe Rénovation à Paris – Travaux de rénovation intérieure, peinture, plomberie, électricité, carrelage. Devis gratuit." />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; color: #222; }
+    header { background: #1f2937; color: white; padding: 40px 20px; text-align: center; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    h1, h2 { color: #111827; }
+    .services { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+    .card { background: #f3f4f6; padding: 20px; border-radius: 10px; }
+    .contact { background: #111827; color: white; text-align: center; }
+    .btn { display: inline-block; margin-top: 20px; padding: 12px 20px; background: #2563eb; color: white; text-decoration: none; border-radius: 6px; }
+    footer { text-align: center; padding: 20px; background: #e5e7eb; }
+  </style>
+</head>
+<body><header>
+  <h1>HKR Groupe Rénovation</h1>
+  <p>Entreprise de rénovation générale – Paris & Île-de-France</p>
+  <a class="btn" href="mailto:hkrrenove@gmail.com">Devis gratuit</a>
+</header><section>
+  <h2>Nos Services</h2>
+  <div class="services">
+    <div class="card">Rénovation intérieure complète</div>
+    <div class="card">Peinture & finitions</div>
+    <div class="card">Plomberie</div>
+    <div class="card">Électricité</div>
+    <div class="card">Carrelage & sols</div>
+    <div class="card">Isolation & aménagement</div>
+  </div>
+</section><section>
+  <h2>À propos de HKR Groupe Rénovation</h2>
+  <p>
+    <strong>HKR Groupe Rénovation</strong> est une entreprise de rénovation générale basée à Paris. Nous réalisons tous travaux de rénovation intérieure : peinture, plomberie, électricité, carrelage et aménagement. Travail soigné, respect des délais et devis gratuit à Paris et Île-de-France.
+  </p>
+</section><section class="contact">
+  <h2>Contact</h2>
+  <p>📍 Paris, France</p>
+  <p>📞 +33 7 58 96 85 10</p>
+  <p>✉️ hkrrenove@gmail.com</p>
+  <a class="btn" href="tel:+33758968510">Appeler maintenant</a>
+</section><footer>
+  <p>© 2025 HKR Groupe Rénovation – Tous droits réservés</p>
+</footer></body>
+</html>
